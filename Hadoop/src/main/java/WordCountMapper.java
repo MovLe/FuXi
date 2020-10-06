@@ -1,6 +1,6 @@
 /**
  * @ClassName WordCountMapper
- * @MethodDesc: TODO WordCountMapper功能介绍
+ * @MethodDesc: WordCount的Mapper
  * @Author Movle
  * @Date 10/6/20 10:56 上午
  * @Version 1.0
