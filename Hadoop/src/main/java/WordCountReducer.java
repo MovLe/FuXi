@@ -22,7 +22,6 @@ public class WordCountReducer extends Reducer<Text, IntWritable,Text,IntWritable
         for(IntWritable value:values){
             count+=value.get();
         }
-
         context.write(key,new IntWritable(count));
     }
 }
